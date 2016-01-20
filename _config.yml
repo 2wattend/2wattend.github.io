@@ -1,0 +1,12 @@
+# Site settings
+title: 2 Watt End
+email: contact@2wattend.io
+description: > # this means to ignore newlines until "baseurl:"
+  So much amazing things.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.2wattend.io" # the base hostname & protocol for your site
+twitter_username: 2wattend
+github_username:  2wattend
+
+# Build settings
+markdown: kramdown
